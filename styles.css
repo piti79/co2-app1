@@ -1,0 +1,27 @@
+ body { background: rgb(181, 231, 177);ue; color:black; 
+    margin: 50px auto; 
+    width: 500px;
+    text-align:center; 
+}
+        label { background: blue; color: red; }
+      button { background: blue; color: red; }
+      input { color: grey; }
+       
+      section { 
+          background: rgb(181, 231, 177);
+           color: gray;
+        margin: 50px auto; 
+        width: 500px; 
+        text-align:center; 
+    }
+
+    .box {border: 3px solid black;}
+
+    .mg-large {margin:20px;}
+    .mg-small {margin: 5px;}
+
+    .pd-large {padding:20px;}
+    .pd-small {padding: 5px;}
+
+
+    #headline {font-family: arial;}
